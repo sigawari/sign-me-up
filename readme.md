@@ -76,7 +76,7 @@ sign-me-up/
 
 ## 🛠 Status Pengembangan
 
-✅ Desain Awal
-🔄 Implementasi Deteksi Gesture (In Progress)
-🔜 Integrasi TikTok Effect House (In Planning)
-📘 Finalisasi & Dokumentasi
+- ✅ Desain Awal
+- 🔄 Implementasi Deteksi Gesture (In Progress)
+- 🔜 Integrasi TikTok Effect House (In Planning)
+- 📘 Finalisasi & Dokumentasi
